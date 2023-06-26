@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanket Hiremath
 - 👀 I’m interested in Embedded firmware, Wearable tech, IoT.
-- 🌱 I’m currently pursuing MS in Computer Engineering (Embedded systems & IoT)
+- 🌱 Embedded Software Engineer by profession
 - 📫 How to reach me- sanketh63@gmail.com / www.linkedin.com/in/sanket-hiremath/
 
 <!---
